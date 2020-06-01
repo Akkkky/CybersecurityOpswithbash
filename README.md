@@ -1,0 +1,2 @@
+# CybersecurityOpswithbash
+実践 bashによるサイバーセキュリティ対策の学習用リポジトリ
